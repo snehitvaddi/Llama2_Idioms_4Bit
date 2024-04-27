@@ -1,6 +1,6 @@
 # Llama2_Idioms_4Bit - Idiom Suggestor Using LLaMA2
 
-This project leverages the LLaMA for suggesting idioms effectively by fine-tuning it on specialized idiomatic datasets. We use advanced NLP techniques including quantization and parameter-efficient fine-tuning (PEFT) to enhance the model's efficiency and performance.
+Fine-tuned LLaMA2 7B model on idioms datasets, employing quantization and parameter-efficient fine-tuning (PEFT) techniques to suggest contextually relevant idioms, enhancing communication naturalness and engagement. Explored 4-bit quantization and parameter-efficient fine-tuning (PEFT) to enhance the model's efficiency and performance.
 
 ## Overview
 The Idiom Suggestor project involves three main stages:
