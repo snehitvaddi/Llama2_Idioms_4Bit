@@ -1,4 +1,4 @@
-# Llama2_Idioms_4Bit - Idiom Suggestor Using LLaMA2
+## Llama2_Idioms_4Bit - Idiom Suggestor Using LLaMA2
 
 Fine-tuned LLaMA2 7B model on idioms datasets, employing quantization and parameter-efficient fine-tuning (PEFT) techniques to suggest contextually relevant idioms, enhancing communication naturalness and engagement. Explored 4-bit quantization and parameter-efficient fine-tuning (PEFT) to enhance the model's efficiency and performance.
 
@@ -17,7 +17,10 @@ The Idiom Suggestor project involves three main stages:
    - Training the model using quantization and PEFT to effectively learn idiomatic expressions.
    - Fine-tuning is conducted on a pre-trained LLaMA model using advanced techniques such as LoRA and QLoRA for efficient training.
    - Specific attention is paid to managing GPU resources, especially in environments with limited hardware capabilities like Google Colab.
-
+## Files
+- [Idioms-Dictionary.pdf](https://github.com/snehitvaddi/Llama2_Idioms_4Bit/blob/main/Idioms-Dictonary.pdf) - Source dictonary file for idioms.
+- [final_Idioms_test_Evaluation.xlsx](https://github.com/snehitvaddi/Llama2_Idioms_4Bit/blob/main/final_Idioms_test_Evaluation.xlsx) - LLM validation resulsts and Rogue scored
+  
 ## Installation
 
 Before you start, ensure you have Python 3.x installed. Then, clone this repository and install the required packages.
